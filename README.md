@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chayan</h1>
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5314041-Gamer-People-Collection&psig=AOvVaw3nJ5kcSuH9Bi5p19G8Xvro&ust=1746556721560000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCQ2Pz8jI0DFQAAAAAdAAAAABAE">
+<img align="center" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palc02&label=Profile%20views&color=0e75b6&style=flat" alt="palc02" /> </p>
