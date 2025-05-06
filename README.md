@@ -1,4 +1,4 @@
-<img align="center" width="1800" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*IPZto_chtq-97A2J7gKjLA.gif">
+<img align="center" width="1800" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif">
 
 <h1 align="center">Hi 👋, I'm Chayan</h1>
 <img align="right" width="500" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
