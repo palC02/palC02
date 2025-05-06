@@ -1,4 +1,4 @@
-<img align="center" width="900" height="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw0e7c1BZqqs3tLVWM3Z4DNV&ust=1746628510581000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi57rSIj40DFQAAAAAdAAAAABBI">
+<img align="center" width="1200" height="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1kc1&psig=AOvVaw0e7c1BZqqs3tLVWM3Z4DNV&ust=1746628510581000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi57rSIj40DFQAAAAAdAAAAABBQ">
 
 <h1 align="center">Hi 👋, I'm Chayan</h1>
 <img align="right" width="400" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
