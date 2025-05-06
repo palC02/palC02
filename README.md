@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palc02&" alt="palc02" /></p>
 
 
-<img  align="center" width="1000" height="700" src="https://gifdb.com/images/high/minecraft-happy-farm-eic5nj4h6k7rtw4t.gif">
+<img  align="center" width="1000" height="300" src="https://gifdb.com/images/high/minecraft-happy-farm-eic5nj4h6k7rtw4t.gif">
