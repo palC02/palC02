@@ -1,6 +1,7 @@
-![logo](https://github.com/palC02/palC02/blob/main/gif.mp4)
+<img align="center" width="900" height="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw0e7c1BZqqs3tLVWM3Z4DNV&ust=1746628510581000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi57rSIj40DFQAAAAAdAAAAABBI">
+
 <h1 align="center">Hi 👋, I'm Chayan</h1>
-<img align="center" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palc02&label=Profile%20views&color=0e75b6&style=flat" alt="palc02" /> </p>
