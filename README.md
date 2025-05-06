@@ -1,5 +1,4 @@
 ![logo](https://github.com/palC02/palC02/blob/main/gif.mp4)
-
 <h1 align="center">Hi 👋, I'm Chayan</h1>
 <img align="center" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
