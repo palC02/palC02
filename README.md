@@ -1,7 +1,7 @@
-<img align="center" width="1000" height="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1kc1&psig=AOvVaw0e7c1BZqqs3tLVWM3Z4DNV&ust=1746628510581000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi57rSIj40DFQAAAAAdAAAAABBQ">
+<img align="center" width="1000" height="60" src="https://www.google.com/url?sa=iurl=https%3A%2F%2Fgifer.com%2Fen%2F1kc1psig=AOvVaw0e7c1BZqqs3tLVWM3Z4DNVust=1746628510581000source=imagescd=vfeopi=89978449&ved=0CBMQjRxqFwoTCOi57rSIj40DFQAAAAAdAAAAABBQ">
 
 <h1 align="center">Hi 👋, I'm Chayan</h1>
-<img align="right" width="400" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
+<img align="right" width="500" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palc02&label=Profile%20views&color=0e75b6&style=flat" alt="palc02" /> </p>
