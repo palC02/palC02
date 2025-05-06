@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="60" src="https://www.google.com/url?sa=iurl=https%3A%2F%2Fgifer.com%2Fen%2F1kc1psig=AOvVaw0e7c1BZqqs3tLVWM3Z4DNVust=1746628510581000source=imagescd=vfeopi=89978449&ved=0CBMQjRxqFwoTCOi57rSIj40DFQAAAAAdAAAAABBQ">
+<img align="center" width="1000" height="60" src="https://github.com/palC02/palC02/blob/main/gif.mp4">
 
 <h1 align="center">Hi 👋, I'm Chayan</h1>
 <img align="right" width="500" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif">
